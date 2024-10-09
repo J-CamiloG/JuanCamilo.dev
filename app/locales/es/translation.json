@@ -1,0 +1,19 @@
+{
+  "welcome": "Bienvenido, soy",
+  "name": "Juan Camilo Campillo",
+  "fullStackDev": "Desarrollador Full-Stack",
+  "uiuxEnthusiast": "Entusiasta de UI/UX",
+  "webCreator": "Creador de Sitios Web",
+  "description": "Apasionado por la tecnología, siempre buscando nuevos retos y oportunidades de aprendizaje en el mundo del desarrollo web e innovación digital.",
+  "downloadCV": "Descargar CV",
+  "visitLinkedIn": "Visitar LinkedIn",
+  "visitGitHub": "Visitar GitHub",
+  "viewAllNews": "Ver todas las noticias",
+  "myLatestNews": "Mis Últimas Noticias",
+  "readMore": "Leer más",
+  "home": "Inicio",
+  "aboutMe": "Sobre Mí",
+  "projects": "Proyectos",
+  "achievements": "Logros",
+  "contact": "Contacto"
+}
